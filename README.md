@@ -22,6 +22,9 @@ It uses **Swing** and **AWT** for GUI rendering, making it interactive and educa
    - Nodes in the frontier
    - Final optimal path
 
+# Demo
+![A* Pathfinding Demo](a_star_path_finder.gif)
+
 ## Use Cases
 - 📚 Educational tool for understanding A\* search.
 - 🎮 Base logic for game AI navigation.
