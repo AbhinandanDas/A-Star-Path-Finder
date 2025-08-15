@@ -36,4 +36,4 @@ It uses **Swing** and **AWT** for GUI rendering, making it interactive and educa
 ## Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/a-star-pathfinding-java.git
+   git clone https://github.com/AbhinandanDas/A-Star-Path-Finder
