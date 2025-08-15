@@ -25,6 +25,9 @@ It uses **Swing** and **AWT** for GUI rendering, making it interactive and educa
 # Demo
 ![A* Pathfinding Demo](a_star_path_finder.gif)
 
+## Screenshot
+![A* Pathfinding Screenshot](optimal_path.png)
+
 ## Use Cases
 - 📚 Educational tool for understanding A\* search.
 - 🎮 Base logic for game AI navigation.
